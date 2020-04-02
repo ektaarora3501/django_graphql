@@ -30,7 +30,7 @@ ALLOWED_HOSTS = []
 
 # Application definition
 
-INSTALLED_APPS = [
+INSTALLED_APPS = [   #configuring graphene 
     'graphene_django',
     'django.contrib.admin',
     'django.contrib.auth',
@@ -123,6 +123,7 @@ USE_TZ = True
 
 STATIC_URL = '/static/'
 
+#adding schemas to settings
 
 
 GRAPHENE = {
