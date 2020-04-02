@@ -1,0 +1,20 @@
+[
+
+  {
+    "model": "query.writer",
+    "pk": 1,
+    "fields": {
+      "name": "J.K. Rowling"
+    }
+  },
+
+  {
+    "model": "query.writer",
+    "pk": 2,
+    "fields": {
+      "name": "John Green"
+      }
+  }
+
+
+]
